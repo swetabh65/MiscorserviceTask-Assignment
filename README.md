@@ -55,26 +55,36 @@ Each service contains:
 
 ### 🔧 How to Run
 
+![image](https://github.com/user-attachments/assets/60eaad02-1af3-472e-a136-d22d08266781)
+
+
+
+
 From the root of the project (`submission/` folder):
 
 ```bash
 # Build and run all services
 docker compose up --build
 
-![image](https://github.com/user-attachments/assets/bca53e33-cc56-4fd7-9720-64f51afed98f)
 
 
 ---
 
+
 ### 🔧 How to Run
 
+
+
+
 From the root of the project (`submission/` folder):
+
 
 ```bash
 # Build and run all services
 docker compose up --build
 
-![image](https://github.com/user-attachments/assets/afa60de5-52d1-4ab8-9d58-ea353b739df4)
+
+![image](https://github.com/user-attachments/assets/acfb04be-7457-4054-b471-b8887b026f97)
 
 ---
 
